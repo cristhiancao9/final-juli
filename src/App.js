@@ -11,9 +11,15 @@ import { Redirect } from "react-router";
 function App() {
   function onFilter(ciudadId) {
     console.log(ciudadId);
+    let buscarPunto = ciudadId.indexOf(".");
     let ciudad = ciudadId.charAt(0);
     if (ciudad.length > 0) {
-      return ciudad[0];
+      if (buscarPunto === 1) {
+        return ciudadId.slice(0, 1);
+      }
+      if (buscarPunto === 2) {
+        return ciudadId.slice(0, 2);
+      }
     } else {
       return null;
     }
