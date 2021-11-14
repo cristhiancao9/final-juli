@@ -23,6 +23,7 @@
   border-radius: 15px;
   justify-items: center;
   cursor: pointer;
+  color: transparent;
 }
 .contenedor-card:hover {
   transform: scale(1.2);
