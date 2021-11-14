@@ -64,6 +64,7 @@ const data = {
     `"Porque a pesar de estar lejos y no tenerse, siguen siendo almas gemelas, esperando que en algun momento vuelvan a encontrarse."`,
     `"Siempre seras mi deseo en una estrella fugaz"`,
     `" Todo es posible si dos personas realmente quieren estar juntas lo estaran, no importa las condiciones. No importan las pruebas, los  obstaculos, los años, ni la distancia. Cuando hay amor y voluntad todo es posible."`,
+    `"Amor y aqui estamos juntos, ya son tres meses en donde hemos compartido miles de cosas, cosas que la mayoria han sido lindas otras no tanto pero ahi seguimos, luchando porque esto que quisimos iniciar perdure sin importar las circustancias en las que estemos, en donde la distancia no es nuestra mejor amiga, pero sin importar todos los obstaculos seguimos construyendo un amor que desde el principio se sintio diferente a los demas, han sido los 3 mejores meses que he podido compartir con alguien"`,
   ],
 };
 export default data;
